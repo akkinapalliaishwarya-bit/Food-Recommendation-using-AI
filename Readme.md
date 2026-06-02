@@ -55,7 +55,7 @@ Food-Recommendation-System/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/food-recommendation-system.git
+git clone https://github.com/akkinapalliaishwarya-bit/food-recommendation-system.git
 ```
 
 2. Navigate to the project folder:
